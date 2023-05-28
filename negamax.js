@@ -314,13 +314,6 @@ var computerAI = function () {
   }, 300);
 };
 
-
-
-
-
-
-
-
 // Event listener for mouse click on the canvas
 document.getElementById('chess').addEventListener('click', playChess);
 
